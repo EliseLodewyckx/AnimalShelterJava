@@ -33,3 +33,12 @@ The goal of this is to do some research to these libraries. Therefore I added so
 ### General findings 
 ### Things I like to explore further
 
+## Working with DeepLearning4J
+### Questions
+1. When and why use DeepLearning4J?
+2. Advantaged and disadvantages of using DeepLearning4J comparing to other libraries (like sklearn)?
+
+### Answers
+### General findings 
+### Things I like to explore further
+
