@@ -1,4 +1,4 @@
-package be.machinelearning.animalshelter.machinelearning;
+package be.machinelearning.animalshelter.ml;
 
 public class Predictor {
 
